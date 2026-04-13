@@ -16,7 +16,7 @@ Puros is not a fully open source project. The main app is closed source, while s
 ## Links 
 
 - Website: [getpuros.app](https://getpuros.app) 
-- Discord: [Join the community](DISCORD_INVITE_LINK) 
+- Discord: [Join the community](https://discord.gg/AauwQm2fKe) 
 
 ## Follow Along 
 
