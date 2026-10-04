@@ -4,7 +4,7 @@ Puros is a small team building a music player for people who care about sound, f
 
 We are starting simple: a macOS player that brings together local playback, streaming, and a cleaner listening experience without the usual clutter. CoreAudio exclusive mode, per-device audio setup, high-quality resampling, EQ and VST effects, and format badges that show exactly what is playing.
 
-**[⬇ Download the latest version](https://github.com/purosapp/purosapp/releases/latest)** · [Website](https://getpuros.app) · [Discord](https://discord.gg/AauwQm2fKe)
+**[⬇ Download Puros (alpha)](https://github.com/purosapp/purosapp/releases)** · [Website](https://getpuros.app) · [Discord](https://discord.gg/AauwQm2fKe)
 
 ## Public repositories
 
